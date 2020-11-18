@@ -3,10 +3,10 @@ This is my submission for the Biweekly Coding Competition Week 3
 
 # Features
 This calculator can perform several functions. Here is a complete list of the functions it can do. 
-+ + Addition
-+ - Subtraction
++ '+' Addition
++ '-' Subtraction
 + / Division
-+ * Multiplication
++ '*' Multiplication
 + ^ Exponents
 + ! Factorial
 + | Absolute Value
