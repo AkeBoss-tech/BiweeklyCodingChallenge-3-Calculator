@@ -21,7 +21,7 @@ This calculator can perform several functions. Here is a complete list of the fu
 
 Along with this, the calculator has an answer storage system that can be used by typing Ans or PreAns into wherever you need to input a number.
 It stores all calculations in a list that can be retrieved while using the program.
-The calculator also has support for constants like e, tau, and pi.
+The calculator also has support for constants like e, tau, and pi. Also it supports decimals.
 
 Although it is unlike a traditional calculator, it can still perform all the functions of a calculator.
 There is also a settings page in the calculator through which you can change the angle mode of the function and the amount of decimal places it rounds to.
