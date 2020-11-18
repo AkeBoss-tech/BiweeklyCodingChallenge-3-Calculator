@@ -27,5 +27,5 @@ Although it is unlike a traditional calculator, it can still perform all the fun
 There is also a settings page in the calculator through which you can change the angle mode of the function and the amount of decimal places it rounds to.
 
 # Issues
-If there are any issues with this sopy of the code, the original code can be found using this link.
+If there are any issues with this copy of the code, the original code can be found using this link.
 https://repl.it/@AkeBoss/Biweekly-Coding-Challenge-3-Calculator
